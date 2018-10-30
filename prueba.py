@@ -1,6 +1,5 @@
-h = "hola mundo"
+h = "tengo hambre"
 b = 10
-c = 20
-a = a + b
-
-no me parece que este bien
+c = 50
+a = c - b
+x = c * a
